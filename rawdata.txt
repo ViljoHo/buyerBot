@@ -1,0 +1,40 @@
+↓Copy the raw data here from https://www.nettiauto.com/ inspector mode↓
+↓Example of raw data. Create_dictionary module can find and save useful information from this↓
+
+<option value="">Malli</option>
+<option value="264" id="qs_1100">1100</option>
+<option value="4551" id="qs_124-spider">124 Spider</option>
+<option value="268" id="qs_126">126</option>
+<option value="269" id="qs_127">127</option>
+<option value="270" id="qs_128">128</option>
+<option value="275" id="qs_133">133</option>
+<option value="282" id="qs_500">500</option>
+<option value="4586" id="qs_500c">500C</option>
+<option value="4774" id="qs_500e">500E</option>
+<option value="4321" id="qs_500l">500L</option>
+<option value="4414" id="qs_500x">500X</option>
+<option value="283" id="qs_600">600</option>
+<option value="285" id="qs_850">850</option>
+<option value="287" id="qs_barchetta">Barchetta</option>
+<option value="288" id="qs_brava">Brava</option>
+<option value="289" id="qs_bravo">Bravo</option>
+<option value="290" id="qs_coupe">Coupe</option>
+<option value="291" id="qs_croma">Croma</option>
+<option value="2197" id="qs_doblo">Doblo</option>
+<option value="3352" id="qs_ducato">Ducato</option>
+<option value="5030" id="qs_e-scudo">E-Scudo</option>
+<option value="1993" id="qs_fiorino">Fiorino</option>
+<option value="4076" id="qs_freemont">Freemont</option>
+<option value="4522" id="qs_fullback">Fullback</option>
+<option value="3728" id="qs_grande-punto">Grande Punto</option>
+<option value="2507" id="qs_idea">Idea</option>
+<option value="3750" id="qs_linea">Linea</option>
+<option value="297" id="qs_panda">Panda</option>
+<option value="298" id="qs_punto">Punto</option>
+<option value="4226" id="qs_punto-evo">Punto Evo</option>
+<option value="301" id="qs_scudo">Scudo</option>
+<option value="302" id="qs_stilo">Stilo</option>
+<option value="4552" id="qs_talento">Talento</option>
+<option value="304" id="qs_tipo">Tipo</option>
+<option value="305" id="qs_uno">Uno</option>
+<option value="3209" id="qs_x-1-9">X 1/9</option>
